@@ -8,5 +8,5 @@ I often prototype web apps, Javascript or CSS features. It is handy to have a qu
 
 * [Express "Hello World"](https://expressjs.com/en/starter/hello-world.html)
 * [Adding HTML files to Express](https://scotch.io/tutorials/use-expressjs-to-deliver-html-files)
-* [Serving static files in Express](https://expressjs.com/en/starter/static-files.html)
+* [Serving static files in Express](https://expressjs.com/starter/static-files.html)
 * [Installing SASS](https://sass-lang.com/install)
