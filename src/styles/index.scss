@@ -1,0 +1,16 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$link-color: blue;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+img {
+  width: 50%;
+}
+
+a {
+  color: $link-color;
+}
