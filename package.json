@@ -4,7 +4,7 @@
   "description": "Express and Sass starter app.",
   "repository": {
     "type": "git",
-    "url": "todo"
+    "url": "https://github.com/myronyeung/express-sass-starter.git"
   },
   "main": "app.js",
   "scripts": {
