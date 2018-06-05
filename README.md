@@ -2,7 +2,7 @@
 
 ## Why?
 
-I often prototype web apps, Javascript or CSS features. It is handy to have a quick starter app with only the essential elements. I actually do not need SASS, but my day job uses it and it makes it easier to port over.
+I often prototype web apps, Javascript or CSS features. It is handy to have a quick starter app with only essential features. I actually do not need Sass, but my day job uses it, so using it here makes it easier to port over later.
 
 ## References
 
